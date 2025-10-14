@@ -1,4 +1,4 @@
-# Meeting-Minutes
+# Meeting-Slides
 
 This is a repo for slides from our main meetings
 
